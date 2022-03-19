@@ -1,12 +1,11 @@
 var firebaseConfig = {
-  apiKey: "AIzaSyArLxp4OyohwHLVRTGhi7OJjoMfdnBaUvk",
-  authDomain: "books-gallery-career-site.firebaseapp.com",
-  databaseURL: "https://books-gallery-career-site-default-rtdb.firebaseio.com",
-  projectId: "books-gallery-career-site",
-  storageBucket: "books-gallery-career-site.appspot.com",
-  messagingSenderId: "658931682437",
-  appId: "1:658931682437:web:1aec496adb8fd5d799edec",
-  measurementId: "G-E71JSGP0SC"
+  apiKey: "AIzaSyCcR76nUjun224T9JrJeDnQuOL5m7UCsAs",
+  authDomain: "educate-platform-site.firebaseapp.com",
+  projectId: "educate-platform-site",
+  storageBucket: "educate-platform-site.appspot.com",
+  messagingSenderId: "156841714838",
+  appId: "1:156841714838:web:d7616f44a7551963448eb7",
+  measurementId: "G-WY2DJXC7FW"
 };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
