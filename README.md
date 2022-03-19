@@ -1,1 +1,1 @@
-# Educate-Pplatform-Site
+# Educate-Platform-Site
